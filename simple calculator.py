@@ -26,5 +26,3 @@ def calculator():
             print("Please enter valid numbers.")
 
 calculator()
-
-
